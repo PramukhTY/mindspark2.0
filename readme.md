@@ -58,3 +58,76 @@ It provides a clean UI where students can view courses, tests, quizzes, academic
 
 ## 📁 Project Structure
 
+```
+
+📦 MINDSPARK
+│
+├── index.html
+├── login.html
+├── signup.html
+├── dashboard.html
+├── quiz.html
+├── courseenrolled.html     (if added)
+├── forgetpassword.html     (optional)
+│
+├── pramukh.jpg             (profile image)
+└── readme.md
+
+````
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository  
+```bash
+git clone https://github.com/<your-username>/mindspark.git
+````
+
+### 2️⃣ Open the project
+
+```
+cd mindspark
+```
+
+### 3️⃣ Run the project
+
+Just open **dashboard.html** or **index.html** in your browser.
+
+*No server required.*
+
+---
+
+## 📸 Screenshots (Add after uploading)
+
+You can add screenshots like:
+
+```
+![Dashboard Screenshot](images/dashboard.png)
+![Quiz Screenshot](images/quiz.png)
+```
+
+---
+
+## 📄 License
+
+This project is open-source.
+Feel free to modify and use it for learning or academic purposes.
+
+---
+
+## 👨‍💻 Author
+
+**Pramukh T.Y.**
+B.E. – Information Science & Engineering
+MINDSPARK Dashboard Project
+
+---
+
+- Smooth transitions  
+- Google Fonts / Poppins-based typography
+
+---
+
+## 📁 Project Structure
+
