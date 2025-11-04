@@ -129,5 +129,3 @@ MINDSPARK Dashboard Project
 
 ---
 
-## 📁 Project Structure
-
